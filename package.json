@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@neondatabase/serverless": "^1.2.0",
+    "mqtt": "^5.16.1",
     "next": "16.4.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
